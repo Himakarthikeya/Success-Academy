@@ -25,7 +25,7 @@ A simple and responsive website for showcasing academy details, courses, and fac
 ---
 
 ## 🖥️ Live Demo  
-🔗 [View Website](https://your-custom-url.netlify.app)  
+🔗 [View Website](https://successacademy2025.netlify.app/)  
 
 ---
 
